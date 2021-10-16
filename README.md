@@ -14,7 +14,7 @@ shell length and species as a significant predictor explaining 11%
 of the variance. Taken together, Meretrix spp. generally resist MP
 ingestion but if the ingestion occurred, the rates were dependent
 on size and species. These results can guide health authorities in
-future directions for food safety
+future directions for food safety.
 
 ## Contents
 1. Full written report
